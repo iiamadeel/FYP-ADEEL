@@ -31,5 +31,10 @@ namespace Presentation_Layer
                 MessageBox.Show("Connection Failed");
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
